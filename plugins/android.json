@@ -1,0 +1,30 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.eric.soyke"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.eric.soyke"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.eric.soyke"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.eric.soyke"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.eric.soyke"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.eric.soyke"
+        }
+    },
+    "dependent_plugins": {}
+}
